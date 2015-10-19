@@ -64,7 +64,7 @@ var data = [
     'ablist',
     'racial',
     'relationships',
-    'lgbt',
+    'lgbtq',
     'suicide'
 ].map(function (name) {
     return yaml.load(read(join(__dirname, name + '.yml'), 'utf8'));
