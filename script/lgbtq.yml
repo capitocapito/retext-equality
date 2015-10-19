@@ -73,7 +73,7 @@
     - bisexual
   inconsiderate:
     - bi
-  - type: simple
+- type: simple
   source: http://www.glaad.org/reference/style
   considerate:
     - gay marriage
@@ -97,7 +97,7 @@
   considerate:
     - transition
   inconsiderate:
-    - sex-change
+    - sex change
 - type: simple
   source: http://www.glaad.org/reference/transgender
   considerate:
